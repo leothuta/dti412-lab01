@@ -16,12 +16,12 @@
 * **Favorite Technology:** Aerodynamic, Networking
 
 ## Career Goal
-Describe your career goal after graduation.
+To work as a Network & Cloud Infrastructure Engineer for a motorsport team, specializing in designing secure, ultra-low-latency networks for live vehicle data processing, telemetry streaming, and high-performance team operations. 
 
 ## Learning Expectations
-What do you expect to learn from DT1412?
+I hope to bridge the gap between academic theory and practical software engineering by mastering full-stack development, cloud deployment, and collaborative project management
 
 ## Future Development Plan
-* **Technical skills I want to improve:** 
-* **Technologies I want to learn:** 
-* **Dream Job Position:** 
+* **Technical skills I want to improve:** Network architecture & routing, ultra-low latency data transmission, network security, and system performance monitoring.
+* **Technologies I want to learn:** Cisco/Juniper enterprise networking, Wireshark, Docker, Linux administration, and network automation (Python/Ansible).
+* **Dream Job Position:** Trackside Systems & Network Engineer in Formula 1 / Motorsport.
